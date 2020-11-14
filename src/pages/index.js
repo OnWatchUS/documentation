@@ -17,9 +17,9 @@ const IndexPage = () => {
               fontWeight: 'bold',
             }}
           >
-            Gatsby Markdown Starter
+            General documentation
           </p>
-          <h2>Boilerplate for markdown-based website</h2>
+          {/* <h2></h2> */}
           <br />
           <Link to="/docs/get-started/introduction">
             <Button
@@ -35,7 +35,7 @@ const IndexPage = () => {
             type="primary"
             size="large"
             icon="github"
-            href="https://github.com/cvluca/gatsby-starter-markdown"
+            href="https://github.com/onWatchUS"
           >
             Github
           </Button>

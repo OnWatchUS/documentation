@@ -1,7 +1,7 @@
 module.exports = {
   pathPrefix: "/documentation",
   siteMetadata: {
-    title: 'Gatsby Markdown Starter',
+    title: 'Documentation OnWatchUS',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
