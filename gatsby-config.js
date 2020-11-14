@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "/OnWatchUS/documentation",
+  pathPrefix: "/documentation",
   siteMetadata: {
     title: 'Gatsby Markdown Starter',
   },
