@@ -15,5 +15,5 @@ When the dev push changes to specific branches (master, qa) through of <a href="
 The most simple structure or steps when a PR start:
 1. Provisioning an environment compatible for the specific project (dart, flutter, reactjs, RoR, etc).
 2. Run a Test battery for verify the new changes
-3. Generate an **[Artifacts](/docs/guide/artifacts)** with the code. (CI)
+3. Generate an **[Artifacts](../guide/artifacts)** with the code. (CI)
 4. Deploy the changes in a production/stage/qa environment. (CD)
