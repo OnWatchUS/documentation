@@ -19,7 +19,9 @@
     "entry": "Guide",
     "name": "Guide",
     "items": [
-      "docs/guide/artifacts"
+      "docs/guide/artifacts",
+      "docs/guide/pipeline",
+      "docs/guide/deploy"
     ]
   },
   {
