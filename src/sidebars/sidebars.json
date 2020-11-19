@@ -21,7 +21,8 @@
     "items": [
       "docs/guide/artifacts",
       "docs/guide/pipeline",
-      "docs/guide/deploy"
+      "docs/guide/deploy",
+      "docs/guide/auth-service"
     ]
   },
   {
